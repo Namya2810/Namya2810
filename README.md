@@ -72,10 +72,6 @@ I'm an AI & ML enthusiast currently pursuing my MCA at **Thapar Institute of Eng
   <img src="https://streak-stats.demolab.com?user=Namya2810&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namya2810&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
-</p>
-
 ----
 
 

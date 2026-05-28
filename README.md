@@ -69,12 +69,13 @@ I'm an AI & ML enthusiast currently pursuing my MCA at **Thapar Institute of Eng
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Namya2810&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Namya2810&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namya2810&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
+----
+
 
 ### Currently Learning
 

@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:jainnamya2810@gmail.com">📧 Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINK">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="www.linkedin.com/in/namya-jain-agfd">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/Namya2810">🐙 GitHub</a>
 </p>
 
@@ -58,7 +58,7 @@ I'm an AI & ML enthusiast currently pursuing my MCA at **Thapar Institute of Eng
 
 | Project | What it does | Stack |
 |---|---|---|
-| [⇌ Skill Swap](https://github.com/Namya2810/Skill-Swap-6) | Full-stack peer skill exchange platform with smart matching algorithm, session booking, and email reminders | React, Node.js, MongoDB, JWT |
+|| [⇌ Skill Swap](https://github.com/Namya2810/Skill-Swap-6) 🔗 [Live] ([VERCEL_URL_YAHAN](https://skill-swap-6-shjz.vercel.app/)) || Full-stack peer skill exchange platform with smart matching algorithm, session booking, and email reminders | React, Node.js, MongoDB, JWT |
 | [📈 Market Trend Analysis](https://github.com/Namya2810/Market_Trend_Analysis) | Real-time stock trend prediction app with 20+ technical indicators and interactive dashboards | Python, Scikit-learn, Streamlit, Plotly |
 | [🥊 Battle of the Models](https://github.com/Namya2810/Battle-of-the-Models) | ML model benchmarking — XGBoost hit 91% accuracy, 0.94 ROC-AUC across 5 classifiers | Python, XGBoost, Scikit-learn |
 | [🌾 KrishiMitra](https://krishimitr.netlify.app/) | Smart farming app with Gemini AI crop disease detection + IoT sensor monitoring (live deployed) | React Native, TypeScript, Supabase, Gemini AI |
